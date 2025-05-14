@@ -5,6 +5,7 @@ Quick Links:
 [[Project Page]](https://boonhianlim.github.io/beyond-code)
 [[Abstract]](https://openreview.net/forum?id=JRjTtoJman)
 [[Paper]](https://hdl.handle.net/10356/184126)
+[[Proof-of-Concept]](https://github.com/BoonHianLim/beyond-code-website-builder)
 
 The abstract of this paper is accepted for poster submission for AI4X 2025. You may read the abstact [here](https://openreview.net/forum?id=JRjTtoJman).
 
