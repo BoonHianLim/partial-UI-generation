@@ -1,13 +1,21 @@
 # Beyond Code: Partial UI Generation Experiments
 
+Quick Links:
+[[Dataset]]() 
+[[Project Page]](https://boonhianlim.github.io/beyond-code)
+[[Abstract]](https://openreview.net/forum?id=JRjTtoJman)
+[[Paper]](https://hdl.handle.net/10356/184126)
+
+The abstract of this paper is accepted for poster submission for AI4X 2025. You may read the abstact [here](https://openreview.net/forum?id=JRjTtoJman).
+
 This repository contains scripts and utilities for running experiments related to partial frontend UI generation from sketches and designs. 
 
 In this repository, we provide the code for running the evaluation. Our codebase built on top of [Design2Code](https://github.com/NoviScl/Design2Code) and [Sketch2Code](https://github.com/SALT-NLP/Sketch2Code), with the modifications below:
 1. **Focus on partial generation instead of full generation** <br>
 The main idea of this project is to extends on the idea of [Design2Code](https://github.com/NoviScl/Design2Code) and [Sketch2Code](https://github.com/SALT-NLP/Sketch2Code), but focus on generations with partial designs instead of full designs. The idea is to ask LLMs to add the design of a HTML component to the existing HTML, instead of generating the entire HTML from scratch. You may refer to our paper [here](https://hdl.handle.net/10356/184126) for more information.
-2. **Split the generation code with the evaluation code** <br>
+1. **Split the generation code with the evaluation code** <br>
 We split the evaluation part as we now evaluate the HTML under different viewports, and it is a very expensive operation that take a long time to run. 
-3. **Introduce more ways to connect with models**<br>
+1. **Introduce more ways to connect with models**<br>
 We add more methods to connect with the models, notably using Ollama and Azure. 
 
 ## Setup
