@@ -1,0 +1,19 @@
+# torch version is 2.6.0. You may refer to https://pytorch.org/get-started/previous-versions/ to find the correct version for your CUDA version.
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+beautifulsoup4==4.13.3
+datasets==3.3.2
+pillow==11.1.0
+huggingface-hub==0.29.2
+scipy==1.15.2
+opencv-python
+colormath
+openai
+openai-clip
+google-genai==1.5.0
+ollama==0.4.7
+tqdm
+pandas
+playwright
+replicate
