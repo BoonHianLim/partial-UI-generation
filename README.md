@@ -1,4 +1,4 @@
-# Beyond Code: Experiments
+# Beyond Code: Partial UI Generation Experiments
 
 This repository contains scripts and utilities for running experiments related to partial frontend UI generation from sketches and designs. 
 
@@ -57,8 +57,8 @@ We add more methods to connect with the models, notably using Ollama and Azure.
 ```
 
 ## Prompting Method
-![Prompting Method 1](static/prompting-method-1.png)
-![Prompting Method 2](static/prompting-method-2.png)
+![Prompting Method 1](static/images/prompting-method-1.png)
+![Prompting Method 2](static/images/prompting-method-2.png)
 
 ## Naming convention
 In our project, the experiment script are named after the datasets it expects and the prompting method it uses. 
