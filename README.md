@@ -1,7 +1,7 @@
 # Beyond Code: Partial UI Generation Experiments
 
 Quick Links:
-[[Dataset]]() 
+[[Dataset]](https://huggingface.co/datasets/csbhlim222/partial-UI-generation-dataset) 
 [[Project Page]](https://boonhianlim.github.io/beyond-code)
 [[Abstract]](https://openreview.net/forum?id=JRjTtoJman)
 [[Paper]](https://hdl.handle.net/10356/184126)
@@ -33,7 +33,7 @@ We add more methods to connect with the models, notably using Ollama and Azure.
    ```bash
    playwright install
    ```
-4. **Download Datasets**: To run the experiments, you would have to prepare the datasets. As a starting point, you may refer to the datasets we compiled. You can access it via this [Google Drive link](). After you download and unzip it, you should put them under `src/datasets`. <br> For example, this is how your directory should looks like:
+4. **Download Datasets**: To run the experiments, you would have to prepare the datasets. As a starting point, you may refer to the datasets we compiled. You can access it via this [Huggingface link](https://huggingface.co/datasets/csbhlim222/partial-UI-generation-dataset). After you download and unzip it, you should put them under `src/datasets`. <br> For example, this is how your directory should looks like:
     ```bash
     ├── src/
     │   ├── datasets/
