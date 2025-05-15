@@ -4,7 +4,7 @@ Quick Links:
 [[Dataset]](https://huggingface.co/datasets/csbhlim222/partial-UI-generation-dataset) 
 [[Project Page]](https://boonhianlim.github.io/beyond-code)
 [[Abstract]](https://openreview.net/forum?id=JRjTtoJman)
-[[Paper]](/beyond-code.pdf)
+[[Paper]](https://github.com/BoonHianLim/beyond-code/blob/577476251edb436ed049e8eb161e6e2346c76da7/beyond-code.pdf)
 [[Dr NTU]](https://hdl.handle.net/10356/184126)
 [[Proof-of-Concept]](https://github.com/BoonHianLim/beyond-code-website-buailder)
 
