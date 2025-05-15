@@ -4,8 +4,9 @@ Quick Links:
 [[Dataset]](https://huggingface.co/datasets/csbhlim222/partial-UI-generation-dataset) 
 [[Project Page]](https://boonhianlim.github.io/beyond-code)
 [[Abstract]](https://openreview.net/forum?id=JRjTtoJman)
-[[Paper]](https://hdl.handle.net/10356/184126)
-[[Proof-of-Concept]](https://github.com/BoonHianLim/beyond-code-website-builder)
+[[Paper]](/beyond-code.pdf)
+[[Dr NTU]](https://hdl.handle.net/10356/184126)
+[[Proof-of-Concept]](https://github.com/BoonHianLim/beyond-code-website-buailder)
 
 The abstract of this paper is accepted for poster submission for AI4X 2025. You may read the abstact [here](https://openreview.net/forum?id=JRjTtoJman).
 
